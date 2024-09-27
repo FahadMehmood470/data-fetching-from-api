@@ -1,13 +1,13 @@
 # How to run this project on your pc
 # step-1
-        git clone "Link"
+        git clone "git@github.com:FahadMehmood470/data-fetching-from-api.git"
 # step-2
         npm install
 # step 3
         yarn start
 
 
-        
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
